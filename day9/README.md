@@ -1,3 +1,12 @@
+*Pairs
+1. Nikki - Mariah
+2. Linda - Ivan
+3. Teresa - Sean
+4. Greg - Kitty  
+5. Kelsey - Tom
+6. Marc - John
+
+
 Assignment #1
 
 Create a calculator application. Your program should ask the user which operation they would like to perform: addition, subtraction, multiplication, division, or square root. Depending on the user’s response, your program should request that the user input either (1) or (2) numbers to perform the desired operation.
